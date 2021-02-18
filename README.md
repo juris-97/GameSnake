@@ -13,12 +13,12 @@ Move the snake around with the arrow keys and try to avoid hitting yourself! <br
 
 	
 ## Technologies
-Project is created with:
+Project created with:
 * Java: 1.8
 * lib: desktop-game-engine.jar
 	
 ## Setup
-To run this project, create the simple java application and copy the source code. <br/>
+To run this project, create a simple java application and copy the source code. <br/>
 Download the desktop-game-engine.jar. <br/>
 Then add the downloaded .jar file to your IDE in the library section.
 
@@ -33,5 +33,5 @@ During the game, the player will earn scores for eating an apple. </br>
 If the player's snake hits it's tail the game is over </br>
 ![alt text](img/snake_3.PNG "You Loose") </br>
 
-To win the game snake should eat all appeared apples in the gameboard.
+To win the game snake should eat all appeared apples on the gameboard.
 ![alt text](img/snake_4.PNG "You WIN") </br>
